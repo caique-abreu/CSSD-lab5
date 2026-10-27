@@ -11,7 +11,7 @@ Group 9: Caique Abreu, Owais Khan, and Leonard Ionescu.
 ## Discussion roles
 - Owais (@owais31k): facilitator and contributor.
 - Caique (@caique-abreu): scribe and contributor.
-- Leonard (@lion26u): contributor and PR reviewer.
+- Leonard (@lion26yu): contributor and PR reviewer.
 
 With three people, some roles overlap. Rotate the roles next week.
 
