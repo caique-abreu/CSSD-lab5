@@ -1,0 +1,35 @@
+# Working Agreements
+
+Group 9: Caique Abreu, Owais Khan, and Leonard Ionescu.
+
+## Communication norms
+- **Channels:** Use messages for quick conversations. Put final decisions in the relevant GitHub issue or PR so everyone can find them.
+- **Response time:** Reply within 24 hours. If a task needs more time, send a short update.
+- **Meetings:** Keep conversations informal and friendly. Let everyone finish speaking and make room for each person's idea.
+- **PR tone:** Keep comments polite and specific. Explain what could be clearer and suggest a small change.
+
+## Discussion roles
+- Owais (@owais31k): facilitator and contributor.
+- Caique (@caique-abreu): scribe and contributor.
+- Leonard (@lion26u): contributor and PR reviewer.
+
+With three people, some roles overlap. Rotate the roles next week.
+
+## Design improvements and owners
+- Caique: make the checkout button and steps clearer.
+- Owais: improve text size and colour contrast.
+- Leonard: make order confirmation and delivery information clearer.
+
+These are the proposed three discussion points. The group still needs to hold the five-minute discussion and confirm or change them; they are not recorded meeting minutes.
+
+## Clarity rewrite
+Before: "Make checkout better."
+
+After: "Make the Checkout button larger and show the next step clearly. Caique will update the sketch; a shopper should be able to find checkout without help."
+
+## Review and next steps
+- [ ] Hold the short discussion, let each person add an idea, and update the three bullets above.
+- [ ] Leonard leaves at least one clarity comment on the PR. Caique responds and updates the wording if needed.
+- [ ] Merge the reviewed PR, delete its branch, and publish the merged file to the Wiki.
+
+Prepared October 27, 2026.
