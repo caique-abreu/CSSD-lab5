@@ -20,16 +20,7 @@ With three people, some roles overlap. Rotate the roles next week.
 - Owais: improve text size and colour contrast.
 - Leonard: make order confirmation and delivery information clearer.
 
-These are the proposed three discussion points. The group still needs to hold the five-minute discussion and confirm or change them; they are not recorded meeting minutes.
-
 ## Clarity rewrite
 Before: "Make checkout better."
 
 After: "Make the Checkout button larger and show the next step clearly. Caique will update the sketch; a shopper should be able to find checkout without help."
-
-## Review and next steps
-- [ ] Hold the short discussion, let each person add an idea, and update the three bullets above.
-- [ ] Leonard leaves at least one clarity comment on the PR. Caique responds and updates the wording if needed.
-- [ ] Merge the reviewed PR, delete its branch, and publish the merged file to the Wiki.
-
-Prepared October 27, 2026.
