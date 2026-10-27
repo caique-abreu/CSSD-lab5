@@ -15,10 +15,12 @@ Group 9: Caique Abreu, Owais Khan, and Leonard Ionescu.
 
 With three people, some roles overlap. Rotate the roles next week.
 
-## Design improvements and owners
+## Discussion summary and owners
 - Caique: make the checkout button and steps clearer.
 - Owais: improve text size and colour contrast.
 - Leonard: make order confirmation and delivery information clearer.
+
+Detailed tasks are kept separately in [Issues](https://github.com/caique-abreu/CSSD-lab5/issues) and the [Project board](https://github.com/users/caique-abreu/projects/2).
 
 ## Clarity rewrite
 Before: "Make checkout better."
